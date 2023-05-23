@@ -11,7 +11,7 @@
       background-size: contain;
       background-repeat: no-repeat;
 
-      /* background-color: #f2f2f2; */
+     
     }
 
     .container {
