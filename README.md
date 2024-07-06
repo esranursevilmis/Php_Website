@@ -1,4 +1,5 @@
 # Php_Website - Diş Hekimi Randevu Sistemi
+Bir diş kliniği için randevu almayı kolaylaştırmak amacıyla geliştirilmiş web tabanlı bir uygulama.
 
 ## Genel Bakış
 **Php_Website**, bir diş kliniği için randevu almayı kolaylaştırmak amacıyla geliştirilmiş web tabanlı bir uygulamadır. PHP, MySQL ve HTML kullanılarak geliştirilen bu proje, hem hastaların hem de diş hekimi personelinin randevu yönetimini kolaylaştırmayı hedeflemektedir.
